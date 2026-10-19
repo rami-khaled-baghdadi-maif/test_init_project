@@ -1,2 +1,3 @@
 # test_init_project
-test my first project in maif env
+
+## Test a first commit and a first push from local repo to github.com
